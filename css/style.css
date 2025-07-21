@@ -1,0 +1,54 @@
+body {
+    background: #f6f6f6;
+    overflow-x: hidden;
+    }
+
+a:link {
+    text-decoration: none;
+    }
+
+.breadcrumb a:link, .breadcrumb a:visited, .breadcrumb a:active {
+        text-decoration: none;
+    }
+    .breadcrumb a:hover {
+        text-decoration: underline;
+    }
+
+.card {
+    padding: 5px;
+    border: none;
+    background: none;
+    }
+
+    .card-body {
+        border: 1px dotted #ccc;
+        background: #fff;
+        border-radius: 10px;
+        }
+
+        .card-body:hover, .hover:hover {
+            opacity: 0.85;
+            }
+
+        .card-body h5, .card-body h6, .card-body p {
+            font-family: Trebuchet MS;
+            }
+
+        .card-body h5 {
+            font-size: 1.7em;
+            }
+
+        .card-body h6 {
+            font-size: 0.7em;
+            }
+
+            .card-text {
+                font-size: 1em;
+                }
+
+.texto-empresarial {
+    text-align: justify;
+    line-height: 1.5rem;
+    }
+
+
