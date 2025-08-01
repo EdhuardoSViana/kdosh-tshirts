@@ -50,6 +50,11 @@ a:link {
     margin-top: -20px;
     }
 
+    .fw-semi {
+        font-weight: 500;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+    }
+
 .texto-empresarial {
     text-align: justify;
     line-height: 1.5rem;
